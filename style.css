@@ -1,3 +1,14 @@
 body{
-    background-color: blue;
+    background-color: yellow !important;
+}
+
+
+
+.container{
+    background-color: greenyellow !important;
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
 }
